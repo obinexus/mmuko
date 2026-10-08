@@ -1,0 +1,4 @@
+#ifndef MMUKO_MODULE_EXTENSIONLESS_H
+#define MMUKO_MODULE_EXTENSIONLESS_H
+#include <mmuko/module.h>
+#endif

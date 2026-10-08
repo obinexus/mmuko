@@ -1,0 +1,4 @@
+#ifndef MMUKO_KERNEL_EXTENSIONLESS_H
+#define MMUKO_KERNEL_EXTENSIONLESS_H
+#include <mmuko/kernel.h>
+#endif
